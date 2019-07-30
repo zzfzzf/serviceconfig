@@ -1,0 +1,11 @@
+spring:
+  data:
+    mongodb:
+      base:
+        database: db_base
+        port: 27017
+        host: 127.0.0.1
+      data:
+        database: db_data
+        port: 27017
+        host: 127.0.0.1
